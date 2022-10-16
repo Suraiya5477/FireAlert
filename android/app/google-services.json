@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "790244676748",
+    "project_id": "firealert-d4d92",
+    "storage_bucket": "firealert-d4d92.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:790244676748:android:2754e98d9bd6dbc37117a9",
+        "android_client_info": {
+          "package_name": "com.example.finalproject"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "790244676748-r9dt7u6hou69sq04qpvsdbac1cos0c1l.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCFMwIrexX3GWn2EEa9Uza7sYOgdO_FQko"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "790244676748-r9dt7u6hou69sq04qpvsdbac1cos0c1l.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
