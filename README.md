@@ -2,7 +2,7 @@ Uses OpenStreetMap in a Flutter app to track the user’s location, find the nea
 Also includes a feature to call 999 and search for fire service locations on the map
 
 Project images 
-<div style="display: flex; flex-direction: column;">
+<div style="display: flex; flex-direction: column;gap: 20;">
   <div>
     <div>Image 1</div>
     <img src="https://github.com/user-attachments/assets/8a24e5df-b4c7-4e8e-b441-593118045f80" alt="project_1" width="300"/>
